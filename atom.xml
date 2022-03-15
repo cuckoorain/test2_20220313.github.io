@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://cuckoorain.github.io/test2_20220313.github.io/</id>
     <title>AD的知识乐园</title>
-    <updated>2022-03-15T11:22:28.036Z</updated>
+    <updated>2022-03-15T11:30:25.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://cuckoorain.github.io/test2_20220313.github.io/"/>
+    <link rel="self" href="https://cuckoorain.github.io/test2_20220313.github.io/atom.xml"/>
     <subtitle>什么是快乐星球</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://cuckoorain.github.io/test2_20220313.github.io/images/avatar.png</logo>
+    <icon>https://cuckoorain.github.io/test2_20220313.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, AD的知识乐园</rights>
     <entry>
         <title type="html"><![CDATA[这是一个测试~]]></title>
-        <id>http://localhost:4000/post/zhe-shi-yi-ge-ce-shi-~/</id>
-        <link href="http://localhost:4000/post/zhe-shi-yi-ge-ce-shi-~/">
+        <id>https://cuckoorain.github.io/test2_20220313.github.io/post/zhe-shi-yi-ge-ce-shi-~/</id>
+        <link href="https://cuckoorain.github.io/test2_20220313.github.io/post/zhe-shi-yi-ge-ce-shi-~/">
         </link>
         <updated>2022-03-15T10:53:30.000Z</updated>
         <summary type="html"><![CDATA[<p>hi！<br>
 随机浮点数垃圾分类杀了<img src="https://cuckoorain.github.io/test2_20220313.github.io//post-images/1647343300011.jpg" alt="" loading="lazy"></p>
 ]]></summary>
         <content type="html"><![CDATA[<p>hi！<br>
-随机浮点数垃圾分类杀了<img src="http://localhost:4000/post-images/1647343300011.jpg" alt="" loading="lazy"></p>
+随机浮点数垃圾分类杀了<img src="https://cuckoorain.github.io/test2_20220313.github.io//post-images/1647343300011.jpg" alt="" loading="lazy"></p>
 <!-- more -->
 <p>hello？<br>
-<img src="http://localhost:4000/post-images/1647343309902.svg" alt="" loading="lazy"></p>
+<img src="https://cuckoorain.github.io/test2_20220313.github.io//post-images/1647343309902.svg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://cuckoorain.github.io/test2_20220313.github.io/post/hello-gridea/</id>
+        <link href="https://cuckoorain.github.io/test2_20220313.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
